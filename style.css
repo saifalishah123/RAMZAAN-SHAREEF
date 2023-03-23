@@ -1,0 +1,146 @@
+.fff {
+    background-image: url(images/dd.55.png);
+    background-repeat: no-repeat;
+    height: 20px;
+    background-size: cover;
+    background-position: top;
+    /* min-height:100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    background-color: white
+}
+
+.COUNTDOWN {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+    font-size: 30px;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.faizan {
+    margin-top: 45px;
+  
+
+}
+
+.kkkk{
+    color: orange;
+    font-style: italic;
+}
+
+.best {
+    /* background-image: url(images/dd.55.png); */
+    background-repeat: no-repeat;
+    height: 20px;
+    background-size: cover;
+    background-position: top;
+    /* min-height:100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    background-color: white
+}
+
+.styling {
+    font-size: 20px;
+    border-radius: 15px;
+    border: 2px solid black;
+    color: black;
+    font-weight: bolder;
+    background-color: rgb(129, 133, 238);
+    padding: 15px;
+    font-style: italic;
+}
+
+.styling:hover {
+    background-color:rgb(93, 59, 228);
+    color:rgb(252, 164, 0);
+    cursor: pointer;
+    
+}
+
+.hh {
+    flex-wrap: wrap;
+    color: blue
+        
+}
+
+.saif {
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+    flex-wrap: wrap ;
+    padding-top: 70px;
+}
+
+.ramdan {
+    color: black;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    flex-wrap: wrap;
+   
+}
+
+.edit {
+    color: blue
+}
+
+.dev {
+    text-align: center;
+    font-weight: bolder;
+    flex-wrap: wrap;
+    font-style: italic;
+   
+}
+
+.ali {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.sahab {
+    text-align: center;
+    flex-wrap: wrap;
+    font-style: italic;
+}
+
+.color {
+    color: brown;
+}
+
+.shah {
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    color: orange
+}
+
+.syed {
+    text-align: center;
+    flex-wrap: wrap;
+    border-radius: 70px;
+
+}
